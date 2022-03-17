@@ -1,0 +1,12 @@
+alembic
+bcrypt
+dependency-injector
+fastapi
+pydantic[email]
+psycopg2-binary
+python-dateutil
+requests
+sqlalchemy
+tox
+uvicorn[standard]
+fastapi-pagination
